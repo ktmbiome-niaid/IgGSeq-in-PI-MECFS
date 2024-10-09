@@ -1,6 +1,7 @@
 # IgG Sequencing Identifies Translocating Gut Microbes that Correlate with Differential Cytokine Response and Reduced Bacterial Growth Rates in Post-Infectious Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (PI-ME/CFS)
 
 Thank you for your interest in this poster at the Cold Spring Harbor Laboratory Microbiome Meeting.
+
 October 29 - November 2, 2024
 
 [![poster thumbnail](assets/CSHL_PPT_Poster_V2.png)](assets/CSHL_PPT_Poster_V2.pdf)

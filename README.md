@@ -2,7 +2,7 @@
 
 Thank you for stopping by our poster today!
 
-![Poster](CSHL_PPT_Poster_V2.pdf)
+![Poster](CSHL_PPT_Poster_V2.png)
 
 ## Citations:
 

@@ -1,6 +1,6 @@
----
-title: IgG Sequencing Identifies Translocating Gut Microbes that Correlate with Differential Cytokine Response and Reduced Bacterial Growth Rates in Post-Infectious Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (PI-ME/CFS)
----
+# CSHL Microbiome Poster 2024
+
+Title: IgG Sequencing Identifies Translocating Gut Microbes that Correlate with Differential Cytokine Response and Reduced Bacterial Growth Rates in Post-Infectious Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (PI-ME/CFS)
 
 Thank you for your interest in this poster at the Cold Spring Harbor Laboratory Microbiome Meeting.
 

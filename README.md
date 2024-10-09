@@ -2,7 +2,7 @@
 
 Thank you for stopping by our poster today!
 
-![Poster](CSHL_PPT_Poster_V2.png)
+<a href="https://ktmbiome-niaid.github.io/IgGSeq-in-PI-MECFS/assets/CSHL_PPT_Poster_V2.pdf" target="_blank">PDF.</a>
 
 ## Citations:
 

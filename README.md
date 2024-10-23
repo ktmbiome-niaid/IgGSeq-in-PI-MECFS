@@ -4,12 +4,12 @@ Thank you for your interest in this poster at the Cold Spring Harbor Laboratory 
 
 October 29 - November 2, 2024
 
-_Poster Details_:
+**Poster Details**:
 
 Poster Session II   
 Thursday, October 31, 2024   
 7:30-10:30 PM   
-Number 143   
+Poster # 143   
 
 [![poster thumbnail](assets/CSHL_PPT_Poster_V2.png)](assets/CSHL_PPT_Poster_V2.pdf)
 

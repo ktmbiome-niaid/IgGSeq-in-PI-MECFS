@@ -1,7 +1,6 @@
 theme: minima
 title: IgG-seq in PI-ME/CFS
-description: Poster Presentation for Cold Spring Harbor Laboratory Microbiome 2024
-author:
-  name: Kathryn E McCauley, Carlotta Vizioli, Andrew S Burns, Shreni Mistry, Avindra Nath, Brian Walitt, Jennifer J Barb
-  email: kathryn.mccauley@nih.gov
+description: Poster Cold Spring Harbor Laboratory Microbiome 2024
+author: Kathryn E McCauley, Carlotta Vizioli, Andrew S Burns, Shreni Mistry, Avindra Nath, Brian Walitt, Jennifer J Barb
+email: kathryn.mccauley@nih.gov
 show_downloads: false
